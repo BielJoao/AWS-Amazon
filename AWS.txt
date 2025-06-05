@@ -1,0 +1,16 @@
+#Curso de AWS-Amazon - Jornada Do Dev
+
+#Criação e configuração da conta AWS 
+
+#- https://aws.amazon.com/pt
+- Ative a autenticação em dois fatores para proteger a sua conta
+
+#Como controlar e reduzir os custos na AWS
+
+Existem diversos modelos de serviçoes dentro da AWS :
+Cobrança :
+-Por Hora
+-Por Minuto
+-Por Requisição
+-Por Espaço alocado
+-Por Dados Transferidos
